@@ -1,0 +1,11 @@
+c:\users\bayun\onedrive\documents\visual studio 2012\Projects\Aplikasi_MyTugas\Aplikasi_MyTugas\bin\Debug\Aplikasi_MyTugas.exe.config
+c:\users\bayun\onedrive\documents\visual studio 2012\Projects\Aplikasi_MyTugas\Aplikasi_MyTugas\bin\Debug\Aplikasi_MyTugas.exe
+c:\users\bayun\onedrive\documents\visual studio 2012\Projects\Aplikasi_MyTugas\Aplikasi_MyTugas\bin\Debug\Aplikasi_MyTugas.pdb
+c:\users\bayun\onedrive\documents\visual studio 2012\Projects\Aplikasi_MyTugas\Aplikasi_MyTugas\bin\Debug\Aplikasi_MyTugas.xml
+c:\users\bayun\onedrive\documents\visual studio 2012\Projects\Aplikasi_MyTugas\Aplikasi_MyTugas\obj\Debug\Aplikasi_MyTugas.launcher_MyTugas.resources
+c:\users\bayun\onedrive\documents\visual studio 2012\Projects\Aplikasi_MyTugas\Aplikasi_MyTugas\obj\Debug\Aplikasi_MyTugas.Resources.resources
+c:\users\bayun\onedrive\documents\visual studio 2012\Projects\Aplikasi_MyTugas\Aplikasi_MyTugas\obj\Debug\Aplikasi_MyTugas.vbproj.GenerateResource.Cache
+c:\users\bayun\onedrive\documents\visual studio 2012\Projects\Aplikasi_MyTugas\Aplikasi_MyTugas\obj\Debug\Aplikasi_MyTugas.exe
+c:\users\bayun\onedrive\documents\visual studio 2012\Projects\Aplikasi_MyTugas\Aplikasi_MyTugas\obj\Debug\Aplikasi_MyTugas.xml
+c:\users\bayun\onedrive\documents\visual studio 2012\Projects\Aplikasi_MyTugas\Aplikasi_MyTugas\obj\Debug\Aplikasi_MyTugas.pdb
+c:\users\bayun\onedrive\documents\visual studio 2012\Projects\Aplikasi_MyTugas\Aplikasi_MyTugas\obj\Debug\Aplikasi_MyTugas.Dashboard.resources
